@@ -14,7 +14,7 @@
 ### 👨‍💻 About Me
 - 🛡️ Cybersecurity engineering profile highly focused on **DevSecOps, Cloud Security, SIEM**, and applied **Machine Learning** for intrusion detection.
 - ☁️ Hands-on experience building security-oriented pipelines, Dockerized/Terraform deployments, and automated SOC workflows.
-- 🎯 Currently pursuing my **Bachelor's Degree in Mathematical and Computer Sciences** in Fès, Morocco, and working towards my **CISM certification**.
+- 🎯 Currently pursuing my **Engineering Degree in Computer Science and Cybersecurity** in Fès, Morocco, and actively participatiing in CTF Competitions. 
 - 💡 **Fun fact:** I built an AI-powered network analyzer that classifies flows using a Random Forest model with ~95% accuracy!
 
 ---
@@ -63,5 +63,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Simo-Zg&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
 </p>
 
-<!-- Optional Streak Stats -->
-<!-- <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Simo-Zg&theme=radical&hide_border=true" alt="GitHub Streak" /></p> -->
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Simo-Zg&theme=radical&hide_border=true" alt="GitHub Streak" /></p>
