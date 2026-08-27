@@ -1,5 +1,5 @@
-<!-- Banner Image (Replace with your own or use this aesthetic tech placeholder) -->
-<img src="https://images.unsplash.com/photo-1550751827-4bd374c3f58b?q=80&w=2070&auto=format&fit=crop" width="100%" height="200" style="object-fit: cover; border-radius: 10px;" alt="Cybersecurity Banner">
+<!-- Banner Image (Replace with your own or use this aesthetic tech placeholder) 
+<img src="https://images.unsplash.com/photo-1550751827-4bd374c3f58b?q=80&w=2070&auto=format&fit=crop" width="100%" height="200" style="object-fit: cover; border-radius: 10px;" alt="Cybersecurity Banner">-->
 
 <h1 align="center">Hi there, I'm Mohammed Zguioui 👋</h1>
 <h3 align="center">Cybersecurity Engineering Student | DevSecOps | Cloud Security | ML for IDS</h3>
